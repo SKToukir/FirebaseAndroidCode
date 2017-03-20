@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1023484132637",
+    "firebase_url": "https://mysampleproject-3e253.firebaseio.com",
+    "project_id": "mysampleproject-3e253",
+    "storage_bucket": "mysampleproject-3e253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023484132637:android:d8fec0e6833a7c7c",
+        "android_client_info": {
+          "package_name": "clubzed.vumobile.com.firebasepushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023484132637-v40ko00pljo02om25sr3ps79vh3ti1d3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "clubzed.vumobile.com.firebasepushnotification",
+            "certificate_hash": "2c551e8167d14cc61875477bb1e7554db1aa5b4c"
+          }
+        },
+        {
+          "client_id": "1023484132637-fok6v11q5ql9b9iqtenjef10sdtk39hj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRDBKEz_NgSp4krHo00etzh9pDa5Yz83Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023484132637-fok6v11q5ql9b9iqtenjef10sdtk39hj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
